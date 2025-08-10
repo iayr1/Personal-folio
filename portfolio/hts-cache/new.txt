@@ -1,3 +1,0 @@
-date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
-02:04:02	11147/11147	---MCZ	404	error ('Not%20Found')	text/html	date:Sun,%2010%20Aug%202025%2017:46:17%20GMT	https://mayur-chaudhari-ai-ec1g98h.gamma.site/robots.txt		(from )
-02:04:03	363624/363624	---MCZ	200	added ('OK')	text/html	date:Sun,%2010%20Aug%202025%2020:34:02%20GMT	https://mayur-chaudhari-ai-ec1g98h.gamma.site/	C:/My%20Web%20Sites/portfolio/mayur-chaudhari-ai-ec1g98h.gamma.site/index.html	(from )
